@@ -27,8 +27,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Ranking/Ranking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFua2luZ1xSYW5raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Students/Students.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Theachers/Teachers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhlYWNoZXJzXFRlYWNoZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/_ViewImports.cshtml]
