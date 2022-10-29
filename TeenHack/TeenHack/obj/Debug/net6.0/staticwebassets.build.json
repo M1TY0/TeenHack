@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YBJIKD6ObkowNQC4tYkeRwXlkVvHg1KnsLtKDRBReLI=",
+  "Hash": "Id6R9TjERbZ7J1RrpL2DcA+ZBbffaPB0IQi28dmou5M=",
   "Source": "TeenHack",
   "BasePath": "_content/TeenHack",
   "Mode": "Default",
@@ -100,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\download.png"
+    },
+    {
+      "Identity": "E:\\api\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\images\\logo.png",
+      "SourceId": "TeenHack",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\api\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\",
+      "BasePath": "_content/TeenHack",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "E:\\api\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\js\\site.js",
