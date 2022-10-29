@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "piN5cASKJh2JzzikziZu2WJ6T06qCGlek0nw7tjeHI8=",
+  "Hash": "a70y9j3W1zs/7sIGBMjhSXbYgld9KZYZNvOWc7Om+qg=",
   "Source": "TeenHack",
   "BasePath": "_content/TeenHack",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\SIS\\Desktop\\simeon\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\images\\download.png",
+      "SourceId": "TeenHack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SIS\\Desktop\\simeon\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\",
+      "BasePath": "_content/TeenHack",
+      "RelativePath": "images/download.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\download.png"
     },
     {
       "Identity": "C:\\Users\\SIS\\Desktop\\simeon\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\js\\site.js",
