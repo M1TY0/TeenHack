@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TeenHack
 build_property.RootNamespace = TeenHack
-build_property.ProjectDir = C:\Users\SIS\Desktop\simeon\TeenHack\TeenHack\TeenHack\
+build_property.ProjectDir = E:\api\TeenHack\TeenHack\TeenHack\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\SIS\Desktop\simeon\TeenHack\TeenHack\TeenHack
+build_property.MSBuildProjectDirectory = E:\api\TeenHack\TeenHack\TeenHack
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Error.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Index.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Privacy.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Ranking/Ranking.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Ranking/Ranking.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFua2luZ1xSYW5raW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Students/boris-borislaw.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Students/boris-borislaw.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcYm9yaXMtYm9yaXNsYXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Students/ivan-ivanow.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Students/ivan-ivanow.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcaXZhbi1pdmFub3cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Students/kristiqn-kristiqnow.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Students/kristiqn-kristiqnow.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNca3Jpc3RpcW4ta3Jpc3RpcW5vdy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Students/maksim-maksimow.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Students/maksim-maksimow.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcbWFrc2ltLW1ha3NpbW93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Students/Students.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Students/Students.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Theachers/Teachers.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Theachers/Teachers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhlYWNoZXJzXFRlYWNoZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/_ViewImports.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/_ViewStart.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/SIS/Desktop/simeon/TeenHack/TeenHack/TeenHack/Pages/Shared/_Layout.cshtml]
+[E:/api/TeenHack/TeenHack/TeenHack/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qw990vr2w3
