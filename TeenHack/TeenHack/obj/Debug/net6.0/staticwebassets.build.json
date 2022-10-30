@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Id6R9TjERbZ7J1RrpL2DcA+ZBbffaPB0IQi28dmou5M=",
+  "Hash": "aSPUOiCid4s6BdoXTy8Xtd/RfBUkEGh/xjW3ZVaCkyQ=",
   "Source": "TeenHack",
   "BasePath": "_content/TeenHack",
   "Mode": "Default",
@@ -117,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "E:\\api\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\images\\profile picter.jpg",
+      "SourceId": "TeenHack",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\api\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\",
+      "BasePath": "_content/TeenHack",
+      "RelativePath": "images/profile picter.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\profile picter.jpg"
     },
     {
       "Identity": "E:\\api\\TeenHack\\TeenHack\\TeenHack\\wwwroot\\js\\site.js",
